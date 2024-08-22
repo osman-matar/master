@@ -73,6 +73,8 @@
     .main-title h2 {
         font-size: 30px ;
     }
+    .dropdown {
+        display:none;
 }
 .main-title .underline {
     width: 100px;
